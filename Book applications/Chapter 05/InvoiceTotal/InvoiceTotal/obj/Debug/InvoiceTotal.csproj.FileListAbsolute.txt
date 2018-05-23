@@ -1,0 +1,61 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Murach\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Murach\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Murach\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Murach\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Murach\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+C:\Murach\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Murach\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\ResGen.read.1.tlog
+C:\Murach\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\ResGen.write.1.tlog
+C:\Murach\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Murach\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\GenerateResource.write.1.tlog
+M:\Current projects\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+M:\Current projects\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+M:\Current projects\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+M:\Current projects\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+M:\Current projects\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+M:\Current projects\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\ResolveAssemblyReference.cache
+M:\Current projects\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+M:\Current projects\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+M:\Current projects\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\GenerateResource.read.1.tlog
+M:\Current projects\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\ResGen.read.1.tlog
+M:\Current projects\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\GenerateResource.write.1.tlog
+M:\Current projects\C# 2010\Book Applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\ResGen.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\ResGen.read.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\ResGen.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\C# 2015\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\C# 2015\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\C# 2015\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\C# 2015\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\C# 2015\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\C# 2015\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojResolveAssemblyReference.cache
+C:\C# 2015\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Form1.resources
+C:\C# 2015\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\C# 2015\Book applications\Chapter 05\InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache

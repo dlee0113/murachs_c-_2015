@@ -1,0 +1,37 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Murach\C# 2008\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\GenerateResource.write.1.tlog
+T:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\ResolveAssemblyReference.cache
+T:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+T:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+T:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+T:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\GenerateResource.read.1.tlog
+T:\Murach\C# 2010\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddCustomer.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\C# 2015\Exercise starts\Chapter 12\CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config

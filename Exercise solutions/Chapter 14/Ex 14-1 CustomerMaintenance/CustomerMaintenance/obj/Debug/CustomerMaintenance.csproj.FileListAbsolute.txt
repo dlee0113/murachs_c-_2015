@@ -1,0 +1,22 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddRetail.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddWholesale.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\Murach\C# 2008\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\Murach\C# 2008\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\C# 2015\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe.config
+C:\C# 2015\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.exe
+C:\C# 2015\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.pdb
+C:\C# 2015\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.exe
+C:\C# 2015\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\bin\Debug\CustomerMaintenance.pdb
+C:\C# 2015\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddRetail.resources
+C:\C# 2015\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmAddWholesale.resources
+C:\C# 2015\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.frmCustomers.resources
+C:\C# 2015\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.Properties.Resources.resources
+C:\C# 2015\Exercise solutions\Chapter 14\Ex 14-1 CustomerMaintenance\CustomerMaintenance\obj\Debug\CustomerMaintenance.csproj.GenerateResource.Cache

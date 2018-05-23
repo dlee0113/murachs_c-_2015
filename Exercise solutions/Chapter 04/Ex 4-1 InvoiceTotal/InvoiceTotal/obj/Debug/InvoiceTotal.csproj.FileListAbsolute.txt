@@ -1,0 +1,44 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache
+C:\Murach\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Murach\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Murach\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Murach\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Murach\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Murach\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\Murach\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Murach\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache
+C:\C# 2015\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe.config
+C:\C# 2015\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.exe
+C:\C# 2015\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.pdb
+C:\C# 2015\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.exe
+C:\C# 2015\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\bin\Debug\InvoiceTotal.pdb
+C:\C# 2015\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csprojResolveAssemblyReference.cache
+C:\C# 2015\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.frmInvoiceTotal.resources
+C:\C# 2015\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.Properties.Resources.resources
+C:\C# 2015\Exercise solutions\Chapter 04\Ex 4-1 InvoiceTotal\InvoiceTotal\obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache

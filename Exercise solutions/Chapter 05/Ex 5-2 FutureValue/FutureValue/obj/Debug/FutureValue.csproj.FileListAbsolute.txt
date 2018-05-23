@@ -1,0 +1,43 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\FutureValue.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\FutureValue.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.csproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.pdb
+C:\Murach\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.exe
+C:\Murach\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.pdb
+C:\Murach\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\FutureValue.exe.config
+C:\Murach\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\FutureValue.exe
+C:\Murach\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\FutureValue.pdb
+C:\Murach\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.Form1.resources
+C:\Murach\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.Properties.Resources.resources
+C:\Murach\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\FutureValue.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\FutureValue.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\FutureValue.exe.config
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\FutureValue.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\FutureValue.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.csproj.GenerateResource.Cache
+C:\C# 2015\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\FutureValue.exe.config
+C:\C# 2015\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.exe
+C:\C# 2015\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.pdb
+C:\C# 2015\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\FutureValue.exe
+C:\C# 2015\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\bin\Debug\FutureValue.pdb
+C:\C# 2015\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.Form1.resources
+C:\C# 2015\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.Properties.Resources.resources
+C:\C# 2015\Exercise solutions\Chapter 05\Ex 5-2 FutureValue\FutureValue\obj\Debug\FutureValue.csproj.GenerateResource.Cache

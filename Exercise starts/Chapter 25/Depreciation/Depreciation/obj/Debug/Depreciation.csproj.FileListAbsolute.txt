@@ -1,0 +1,34 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 24\Depreciation\Depreciation\bin\Debug\Depreciation.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 24\Depreciation\Depreciation\bin\Debug\Depreciation.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 24\Depreciation\Depreciation\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 24\Depreciation\Depreciation\obj\Debug\Depreciation.frmDepreciation.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 24\Depreciation\Depreciation\obj\Debug\Depreciation.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 24\Depreciation\Depreciation\obj\Debug\Depreciation.csproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 24\Depreciation\Depreciation\obj\Debug\Depreciation.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 24\Depreciation\Depreciation\obj\Debug\Depreciation.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\Depreciation\Depreciation\obj\Debug\Depreciation.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\Depreciation\Depreciation\obj\Debug\Depreciation.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\Depreciation\Depreciation\bin\Debug\Depreciation.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\Depreciation\Depreciation\bin\Debug\Depreciation.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\Depreciation\Depreciation\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\Depreciation\Depreciation\obj\Debug\Depreciation.frmDepreciation.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\Depreciation\Depreciation\obj\Debug\Depreciation.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\Depreciation\Depreciation\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\Depreciation\Depreciation\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 24\Depreciation\Depreciation\obj\Debug\Depreciation.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 24\Depreciation\Depreciation\obj\Debug\Depreciation.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 24\Depreciation\Depreciation\bin\Debug\Depreciation.exe.config
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 24\Depreciation\Depreciation\bin\Debug\Depreciation.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 24\Depreciation\Depreciation\bin\Debug\Depreciation.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 24\Depreciation\Depreciation\obj\Debug\Depreciation.frmDepreciation.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 24\Depreciation\Depreciation\obj\Debug\Depreciation.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 24\Depreciation\Depreciation\obj\Debug\Depreciation.csproj.GenerateResource.Cache
+C:\C# 2015\Exercise starts\Chapter 25\Depreciation\Depreciation\bin\Debug\Depreciation.exe.config
+C:\C# 2015\Exercise starts\Chapter 25\Depreciation\Depreciation\obj\Debug\Depreciation.exe
+C:\C# 2015\Exercise starts\Chapter 25\Depreciation\Depreciation\obj\Debug\Depreciation.pdb
+C:\C# 2015\Exercise starts\Chapter 25\Depreciation\Depreciation\bin\Debug\Depreciation.exe
+C:\C# 2015\Exercise starts\Chapter 25\Depreciation\Depreciation\bin\Debug\Depreciation.pdb
+C:\C# 2015\Exercise starts\Chapter 25\Depreciation\Depreciation\obj\Debug\Depreciation.csprojResolveAssemblyReference.cache
+C:\C# 2015\Exercise starts\Chapter 25\Depreciation\Depreciation\obj\Debug\Depreciation.frmDepreciation.resources
+C:\C# 2015\Exercise starts\Chapter 25\Depreciation\Depreciation\obj\Debug\Depreciation.Properties.Resources.resources
+C:\C# 2015\Exercise starts\Chapter 25\Depreciation\Depreciation\obj\Debug\Depreciation.csproj.GenerateResource.Cache

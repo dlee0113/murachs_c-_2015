@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\CloneCustomer.Form1.resources
+obj\Debug\CloneCustomer.Properties.Resources.resources
+obj\Debug\CloneCustomer.csproj.GenerateResource.Cache
+bin\Debug\CloneCustomer.exe
+bin\Debug\CloneCustomer.pdb
+obj\Debug\CloneCustomer.exe
+obj\Debug\CloneCustomer.pdb

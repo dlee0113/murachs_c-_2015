@@ -1,0 +1,51 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.csproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoices\CustomerInvoices\bin\Debug\CustomerInvoices.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoices\CustomerInvoices\bin\Debug\CustomerInvoices.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoices\CustomerInvoices\bin\Debug\Murach.Data.dll
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoices\CustomerInvoices\bin\Debug\Murach.Data.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoicesGenericLists\CustomerInvoices\obj\Debug\CustomerInvoices.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoicesGenericLists\CustomerInvoices\obj\Debug\CustomerInvoices.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoicesGenericLists\CustomerInvoices\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoicesGenericLists\CustomerInvoices\obj\Debug\CustomerInvoices.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoicesGenericLists\CustomerInvoices\obj\Debug\CustomerInvoices.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoicesGenericLists\CustomerInvoices\obj\Debug\CustomerInvoices.csproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoicesGenericLists\CustomerInvoices\bin\Debug\CustomerInvoices.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 23\CustomerInvoicesGenericLists\CustomerInvoices\bin\Debug\CustomerInvoices.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 23\CustomerInvoicesGenericLists\CustomerInvoices\obj\Debug\CustomerInvoices.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 23\CustomerInvoicesGenericLists\CustomerInvoices\obj\Debug\CustomerInvoices.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 23\CustomerInvoicesGenericLists\CustomerInvoices\bin\Debug\CustomerInvoices.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 23\CustomerInvoicesGenericLists\CustomerInvoices\bin\Debug\CustomerInvoices.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 23\CustomerInvoicesGenericLists\CustomerInvoices\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 23\CustomerInvoicesGenericLists\CustomerInvoices\obj\Debug\CustomerInvoices.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 23\CustomerInvoicesGenericLists\CustomerInvoices\obj\Debug\CustomerInvoices.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 23\CustomerInvoicesGenericLists\CustomerInvoices\obj\Debug\CustomerInvoices.csproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\bin\Debug\CustomerInvoices.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\bin\Debug\CustomerInvoices.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\bin\Debug\CustomerInvoices.exe.config
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\bin\Debug\CustomerInvoices.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\bin\Debug\CustomerInvoices.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.csproj.GenerateResource.Cache
+C:\C# 2015\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\bin\Debug\CustomerInvoices.exe.config
+C:\C# 2015\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.exe
+C:\C# 2015\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.pdb
+C:\C# 2015\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\bin\Debug\CustomerInvoices.exe
+C:\C# 2015\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\bin\Debug\CustomerInvoices.pdb
+C:\C# 2015\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.Form1.resources
+C:\C# 2015\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.Properties.Resources.resources
+C:\C# 2015\Exercise starts\Chapter 23\CustomerInvoices\CustomerInvoices\obj\Debug\CustomerInvoices.csproj.GenerateResource.Cache

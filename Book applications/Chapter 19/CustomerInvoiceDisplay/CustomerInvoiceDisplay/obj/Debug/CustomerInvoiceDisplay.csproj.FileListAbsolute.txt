@@ -1,0 +1,41 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\bin\Debug\CustomerInvoiceDisplay.exe.config
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\bin\Debug\CustomerInvoiceDisplay.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\bin\Debug\CustomerInvoiceDisplay.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.csproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\bin\Debug\CustomerInvoiceDisplay.exe.config
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.exe
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\bin\Debug\CustomerInvoiceDisplay.exe
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\bin\Debug\CustomerInvoiceDisplay.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\bin\Debug\CustomerInvoiceDisplay.exe.config
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.exe
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\bin\Debug\CustomerInvoiceDisplay.exe
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\bin\Debug\CustomerInvoiceDisplay.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.csprojResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.csproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\bin\Debug\MMABooks.mdf
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\bin\Debug\MMABooks_log.ldf
+C:\C# 2015\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\bin\Debug\CustomerInvoiceDisplay.exe.config
+C:\C# 2015\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.exe
+C:\C# 2015\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.pdb
+C:\C# 2015\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\bin\Debug\MMABooks.mdf
+C:\C# 2015\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\bin\Debug\MMABooks_log.ldf
+C:\C# 2015\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\bin\Debug\CustomerInvoiceDisplay.exe
+C:\C# 2015\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\bin\Debug\CustomerInvoiceDisplay.pdb
+C:\C# 2015\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.csprojResolveAssemblyReference.cache
+C:\C# 2015\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.Form1.resources
+C:\C# 2015\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.Properties.Resources.resources
+C:\C# 2015\Book applications\Chapter 19\CustomerInvoiceDisplay\CustomerInvoiceDisplay\obj\Debug\CustomerInvoiceDisplay.csproj.GenerateResource.Cache

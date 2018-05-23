@@ -1,0 +1,45 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\bin\Debug\StringHandling.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\bin\Debug\StringHandling.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.csproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.pdb
+C:\Murach\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.exe
+C:\Murach\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.pdb
+C:\Murach\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\bin\Debug\StringHandling.exe.config
+C:\Murach\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\bin\Debug\StringHandling.exe
+C:\Murach\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\bin\Debug\StringHandling.pdb
+C:\Murach\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.Form1.resources
+C:\Murach\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.Properties.Resources.resources
+C:\Murach\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\bin\Debug\StringHandling.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\bin\Debug\StringHandling.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\ResGen.read.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\ResGen.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\bin\Debug\StringHandling.exe.config
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\bin\Debug\StringHandling.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\bin\Debug\StringHandling.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.csproj.GenerateResource.Cache
+C:\C# 2015\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\bin\Debug\StringHandling.exe.config
+C:\C# 2015\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.exe
+C:\C# 2015\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.pdb
+C:\C# 2015\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\bin\Debug\StringHandling.exe
+C:\C# 2015\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\bin\Debug\StringHandling.pdb
+C:\C# 2015\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.Form1.resources
+C:\C# 2015\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.Properties.Resources.resources
+C:\C# 2015\Exercise solutions\Chapter 09\Ex 9-2 StringHandling\StringHandling\obj\Debug\StringHandling.csproj.GenerateResource.Cache

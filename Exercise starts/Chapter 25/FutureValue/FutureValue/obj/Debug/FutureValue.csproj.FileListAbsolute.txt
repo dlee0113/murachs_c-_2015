@@ -1,0 +1,33 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 24\FutureValue\FutureValue\bin\Debug\FutureValue.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 24\FutureValue\FutureValue\bin\Debug\FutureValue.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 24\FutureValue\FutureValue\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 24\FutureValue\FutureValue\obj\Debug\FutureValue.frmFutureValue.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 24\FutureValue\FutureValue\obj\Debug\FutureValue.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 24\FutureValue\FutureValue\obj\Debug\FutureValue.csproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 24\FutureValue\FutureValue\obj\Debug\FutureValue.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 24\FutureValue\FutureValue\obj\Debug\FutureValue.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\FutureValue\FutureValue\obj\Debug\FutureValue.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\FutureValue\FutureValue\obj\Debug\FutureValue.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\FutureValue\FutureValue\bin\Debug\FutureValue.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\FutureValue\FutureValue\bin\Debug\FutureValue.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\FutureValue\FutureValue\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\FutureValue\FutureValue\obj\Debug\FutureValue.frmFutureValue.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\FutureValue\FutureValue\obj\Debug\FutureValue.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\FutureValue\FutureValue\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 24\FutureValue\FutureValue\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 24\FutureValue\FutureValue\obj\Debug\FutureValue.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 24\FutureValue\FutureValue\obj\Debug\FutureValue.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 24\FutureValue\FutureValue\bin\Debug\FutureValue.exe.config
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 24\FutureValue\FutureValue\bin\Debug\FutureValue.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 24\FutureValue\FutureValue\bin\Debug\FutureValue.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 24\FutureValue\FutureValue\obj\Debug\FutureValue.frmFutureValue.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 24\FutureValue\FutureValue\obj\Debug\FutureValue.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 24\FutureValue\FutureValue\obj\Debug\FutureValue.csproj.GenerateResource.Cache
+C:\C# 2015\Exercise starts\Chapter 25\FutureValue\FutureValue\bin\Debug\FutureValue.exe.config
+C:\C# 2015\Exercise starts\Chapter 25\FutureValue\FutureValue\obj\Debug\FutureValue.exe
+C:\C# 2015\Exercise starts\Chapter 25\FutureValue\FutureValue\obj\Debug\FutureValue.pdb
+C:\C# 2015\Exercise starts\Chapter 25\FutureValue\FutureValue\bin\Debug\FutureValue.exe
+C:\C# 2015\Exercise starts\Chapter 25\FutureValue\FutureValue\bin\Debug\FutureValue.pdb
+C:\C# 2015\Exercise starts\Chapter 25\FutureValue\FutureValue\obj\Debug\FutureValue.frmFutureValue.resources
+C:\C# 2015\Exercise starts\Chapter 25\FutureValue\FutureValue\obj\Debug\FutureValue.Properties.Resources.resources
+C:\C# 2015\Exercise starts\Chapter 25\FutureValue\FutureValue\obj\Debug\FutureValue.csproj.GenerateResource.Cache

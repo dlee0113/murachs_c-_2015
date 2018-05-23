@@ -1,0 +1,15 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+    <Product Code="A4CS">
+        <Description>Murach's ASP.NET 4 with C# 2010</Description>
+        <Price>58.50</Price>
+    </Product>
+    <Product Code="JAVP">
+        <Description>Murach's Java Programming</Description>
+        <Price>56.50</Price>
+    </Product>
+    <Product Code="CS10">
+        <Description>Murach's C# 2010</Description>
+        <Price>56.50</Price>
+    </Product>
+</Products>

@@ -1,0 +1,31 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+    <Product>
+        <Type>Book</Type>
+        <Code>BJWN</Code>
+        <Description>Murach's Beginning Java with NetBeans</Description>
+        <Price>57.50</Price>
+        <Author>Joel Murach</Author>
+    </Product>
+    <Product>
+        <Type>Software</Type>
+        <Code>NPTK</Code>
+        <Description>.NET Programmer's Toolkit</Description>
+        <Price>179.99</Price>
+        <Version>4.5</Version>
+    </Product>
+    <Product>
+        <Type>Software</Type>
+        <Code>NVLD</Code>
+        <Description>.NET Validation Library</Description>
+        <Price>79.50</Price>
+        <Version>1.5</Version>
+    </Product>
+    <Product>
+        <Type>Book</Type>
+        <Code>CS15</Code>
+        <Description>Murach's C# 2015</Description>
+        <Price>56.50</Price>
+        <Author>Anne Boehm</Author>
+    </Product>
+</Products>

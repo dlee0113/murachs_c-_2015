@@ -1,0 +1,8 @@
+bin\Debug\FutureValue.exe
+bin\Debug\FutureValue.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\FutureValue.Form1.resources
+obj\Debug\FutureValue.Properties.Resources.resources
+obj\Debug\FutureValue.csproj.GenerateResource.Cache
+obj\Debug\FutureValue.exe
+obj\Debug\FutureValue.pdb

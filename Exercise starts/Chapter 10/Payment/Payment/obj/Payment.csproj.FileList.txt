@@ -1,0 +1,8 @@
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\Payment.Form1.resources
+obj\Debug\Payment.Properties.Resources.resources
+obj\Debug\Payment.csproj.GenerateResource.Cache
+bin\Debug\Payment.exe
+bin\Debug\Payment.pdb
+obj\Debug\Payment.exe
+obj\Debug\Payment.pdb

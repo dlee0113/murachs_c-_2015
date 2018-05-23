@@ -1,0 +1,23 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Products>
+    <Product>
+        <Code>CS12</Code>
+        <Description>Murach's C# 2012</Description>
+        <Price>54.50</Price>
+    </Product>
+    <Product>
+        <Code>A4CS</Code>
+        <Description>Murach's ASP.NET 4.5 with C# 2012</Description>
+        <Price>57.50</Price>
+    </Product>
+    <Product>
+        <Code>SQ12</Code>
+        <Description>Murach's SQL Server 2012</Description>
+        <Price>56.50</Price>
+    </Product>
+    <Product>
+        <Code>BJWN</Code>
+        <Description>Murach's Beginning Java with NetBeans</Description>
+        <Price>57.50</Price>
+    </Product>
+</Products>

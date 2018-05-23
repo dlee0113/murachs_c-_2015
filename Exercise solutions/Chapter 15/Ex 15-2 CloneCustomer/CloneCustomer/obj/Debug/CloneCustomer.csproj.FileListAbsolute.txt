@@ -1,0 +1,49 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\bin\Debug\CloneCustomer.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\bin\Debug\CloneCustomer.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.csproj.GenerateResource.Cache
+C:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.exe
+C:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.pdb
+C:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\bin\Debug\CloneCustomer.exe
+C:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\bin\Debug\CloneCustomer.pdb
+C:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.Form1.resources
+C:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.Properties.Resources.resources
+C:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\ResGen.read.1.tlog
+C:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\ResGen.write.1.tlog
+C:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\bin\Debug\CloneCustomer.exe.config
+C:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\GenerateResource.write.1.tlog
+T:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\bin\Debug\CloneCustomer.exe
+T:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\bin\Debug\CloneCustomer.pdb
+T:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\ResolveAssemblyReference.cache
+T:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.Form1.resources
+T:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.Properties.Resources.resources
+T:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\GenerateResource.read.1.tlog
+T:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\ResGen.read.1.tlog
+T:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\GenerateResource.write.1.tlog
+T:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\ResGen.write.1.tlog
+T:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.exe
+T:\Murach\C# 2010\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\bin\Debug\CloneCustomer.exe.config
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\bin\Debug\CloneCustomer.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\bin\Debug\CloneCustomer.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.csproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.csprojResolveAssemblyReference.cache
+C:\C# 2015\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\bin\Debug\CloneCustomer.exe.config
+C:\C# 2015\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.exe
+C:\C# 2015\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.pdb
+C:\C# 2015\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\bin\Debug\CloneCustomer.exe
+C:\C# 2015\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\bin\Debug\CloneCustomer.pdb
+C:\C# 2015\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.csprojResolveAssemblyReference.cache
+C:\C# 2015\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.Form1.resources
+C:\C# 2015\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.Properties.Resources.resources
+C:\C# 2015\Exercise solutions\Chapter 15\Ex 15-2 CloneCustomer\CloneCustomer\obj\Debug\CloneCustomer.csproj.GenerateResource.Cache

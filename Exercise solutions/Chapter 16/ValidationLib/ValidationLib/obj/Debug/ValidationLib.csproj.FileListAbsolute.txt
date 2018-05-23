@@ -1,0 +1,9 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 16\ValidationLib\ValidationLib\bin\Debug\ValidationLib.dll
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 16\ValidationLib\ValidationLib\bin\Debug\ValidationLib.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 16\ValidationLib\ValidationLib\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 16\ValidationLib\ValidationLib\obj\Debug\ValidationLib.dll
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 16\ValidationLib\ValidationLib\obj\Debug\ValidationLib.pdb
+C:\C# 2015\Exercise solutions\Chapter 16\ValidationLib\ValidationLib\bin\Debug\ValidationLib.dll
+C:\C# 2015\Exercise solutions\Chapter 16\ValidationLib\ValidationLib\bin\Debug\ValidationLib.pdb
+C:\C# 2015\Exercise solutions\Chapter 16\ValidationLib\ValidationLib\obj\Debug\ValidationLib.dll
+C:\C# 2015\Exercise solutions\Chapter 16\ValidationLib\ValidationLib\obj\Debug\ValidationLib.pdb

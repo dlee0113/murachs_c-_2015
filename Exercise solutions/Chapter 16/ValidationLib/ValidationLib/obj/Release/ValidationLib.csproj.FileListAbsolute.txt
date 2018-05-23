@@ -1,0 +1,4 @@
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 16\ValidationLib\ValidationLib\bin\Release\ValidationLib.dll
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 16\ValidationLib\ValidationLib\bin\Release\ValidationLib.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 16\ValidationLib\ValidationLib\obj\Release\ValidationLib.dll
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 16\ValidationLib\ValidationLib\obj\Release\ValidationLib.pdb

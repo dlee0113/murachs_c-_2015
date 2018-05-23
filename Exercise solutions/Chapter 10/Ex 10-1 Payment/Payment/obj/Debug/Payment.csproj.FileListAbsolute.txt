@@ -1,0 +1,49 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\bin\Debug\Payment.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\bin\Debug\Payment.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.frmCustomer.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.frmPayment.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.csproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.pdb
+C:\Murach\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.exe
+C:\Murach\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.pdb
+C:\Murach\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\bin\Debug\Payment.exe.config
+C:\Murach\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\bin\Debug\Payment.exe
+C:\Murach\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\bin\Debug\Payment.pdb
+C:\Murach\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.frmCustomer.resources
+C:\Murach\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.frmPayment.resources
+C:\Murach\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\Murach\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\bin\Debug\Payment.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\bin\Debug\Payment.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.frmCustomer.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.frmPayment.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\bin\Debug\Payment.exe.config
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\bin\Debug\Payment.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\bin\Debug\Payment.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.frmCustomer.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.frmPayment.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.csproj.GenerateResource.Cache
+C:\C# 2015\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\bin\Debug\Payment.exe.config
+C:\C# 2015\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.exe
+C:\C# 2015\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.pdb
+C:\C# 2015\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\bin\Debug\Payment.exe
+C:\C# 2015\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\bin\Debug\Payment.pdb
+C:\C# 2015\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.csprojResolveAssemblyReference.cache
+C:\C# 2015\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.frmCustomer.resources
+C:\C# 2015\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.frmPayment.resources
+C:\C# 2015\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\C# 2015\Exercise solutions\Chapter 10\Ex 10-1 Payment\Payment\obj\Debug\Payment.csproj.GenerateResource.Cache

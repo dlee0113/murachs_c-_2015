@@ -1,0 +1,8 @@
+bin\Debug\InvoiceTotal.exe
+bin\Debug\InvoiceTotal.pdb
+obj\Debug\ResolveAssemblyReference.cache
+obj\Debug\InvoiceTotal.Properties.Resources.resources
+obj\Debug\InvoiceTotal.csproj.GenerateResource.Cache
+obj\Debug\InvoiceTotal.exe
+obj\Debug\InvoiceTotal.pdb
+obj\Debug\InvoiceTotal.frmInvoiceTotal.resources

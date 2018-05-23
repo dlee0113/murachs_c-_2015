@@ -1,0 +1,38 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 10\Payment\Payment\obj\Debug\Payment.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 10\Payment\Payment\obj\Debug\Payment.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 10\Payment\Payment\bin\Debug\Payment.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 10\Payment\Payment\bin\Debug\Payment.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 10\Payment\Payment\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 10\Payment\Payment\obj\Debug\Payment.csproj.GenerateResource.Cache
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.exe
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.pdb
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.exe.config
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.exe
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.pdb
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Form1.resources
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.exe.config
+C:\C# 2015\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.exe.config
+C:\C# 2015\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.exe
+C:\C# 2015\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.pdb
+C:\C# 2015\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.exe
+C:\C# 2015\Exercise starts\Chapter 10\Payment\Payment\bin\Debug\Payment.pdb
+C:\C# 2015\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Form1.resources
+C:\C# 2015\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.Properties.Resources.resources
+C:\C# 2015\Exercise starts\Chapter 10\Payment\Payment\obj\Debug\Payment.csproj.GenerateResource.Cache

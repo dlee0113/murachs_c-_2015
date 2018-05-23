@@ -1,0 +1,46 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\bin\Debug\FinancialCalculations.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\bin\Debug\FinancialCalculations.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.frmFutureValue.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.frmDepreciation.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.frmMain.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.csproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Book Applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.exe
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\bin\Debug\FinancialCalculations.exe
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\bin\Debug\FinancialCalculations.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.frmFutureValue.resources
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.frmDepreciation.resources
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.frmMain.resources
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.exe
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\bin\Debug\FinancialCalculations.exe.config
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\bin\Debug\FinancialCalculations.exe
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\bin\Debug\FinancialCalculations.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.frmFutureValue.resources
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.frmDepreciation.resources
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.frmMain.resources
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.csproj.GenerateResource.Cache
+C:\Users\Anne.murach\Documents\C# 2012\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.csprojResolveAssemblyReference.cache
+M:\Current projects\C# 2012\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\bin\Debug\FinancialCalculations.exe.config
+M:\Current projects\C# 2012\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.exe
+M:\Current projects\C# 2012\Book applications\Chapter 24\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.pdb
+C:\C# 2015\Book applications\Chapter 25\FinancialCalculationsSDI\FinancialCalculations\bin\Debug\FinancialCalculations.exe.config
+C:\C# 2015\Book applications\Chapter 25\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.exe
+C:\C# 2015\Book applications\Chapter 25\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.pdb
+C:\C# 2015\Book applications\Chapter 25\FinancialCalculationsSDI\FinancialCalculations\bin\Debug\FinancialCalculations.exe
+C:\C# 2015\Book applications\Chapter 25\FinancialCalculationsSDI\FinancialCalculations\bin\Debug\FinancialCalculations.pdb
+C:\C# 2015\Book applications\Chapter 25\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.csprojResolveAssemblyReference.cache
+C:\C# 2015\Book applications\Chapter 25\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.frmFutureValue.resources
+C:\C# 2015\Book applications\Chapter 25\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.frmDepreciation.resources
+C:\C# 2015\Book applications\Chapter 25\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.frmMain.resources
+C:\C# 2015\Book applications\Chapter 25\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.Properties.Resources.resources
+C:\C# 2015\Book applications\Chapter 25\FinancialCalculationsSDI\FinancialCalculations\obj\Debug\FinancialCalculations.csproj.GenerateResource.Cache

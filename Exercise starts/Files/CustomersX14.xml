@@ -1,0 +1,24 @@
+﻿<?xml version="1.0" encoding="utf-8"?>
+<Customers>
+    <Customer>
+        <Type>Wholesale</Type>
+        <FirstName>John</FirstName>
+        <LastName>Mendez</LastName>
+        <Email>jmendez@msystem.com</Email>
+        <Company>Mendez Systems</Company>
+    </Customer>
+    <Customer>
+        <Type>Retail</Type>
+        <FirstName>Joanne</FirstName>
+        <LastName>Smith</LastName>
+        <Email>jsmith@armaco.com</Email>
+        <HomePhone>(559) 555-1234</HomePhone>
+    </Customer>
+    <Customer>
+        <Type>Wholesale</Type>
+        <FirstName>Erin</FirstName>
+        <LastName>Finch</LastName>
+        <Email>efinch@csuks.edu</Email>
+        <Company>CSUKS</Company>
+    </Customer>
+</Customers>

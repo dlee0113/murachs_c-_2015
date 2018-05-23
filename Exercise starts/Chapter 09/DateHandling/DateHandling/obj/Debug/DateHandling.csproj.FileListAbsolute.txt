@@ -1,0 +1,38 @@
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 09\DateHandling\DateHandling\bin\Debug\DateHandling.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 09\DateHandling\DateHandling\bin\Debug\DateHandling.pdb
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 09\DateHandling\DateHandling\obj\Debug\ResolveAssemblyReference.cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.Form1.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.Properties.Resources.resources
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.csproj.GenerateResource.Cache
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.exe
+C:\Documents and Settings\anne\My Documents\C# 2008\Exercise Starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.pdb
+C:\Murach\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.exe
+C:\Murach\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.pdb
+C:\Murach\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\bin\Debug\DateHandling.exe.config
+C:\Murach\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\bin\Debug\DateHandling.exe
+C:\Murach\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\bin\Debug\DateHandling.pdb
+C:\Murach\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\ResolveAssemblyReference.cache
+C:\Murach\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.Form1.resources
+C:\Murach\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.Properties.Resources.resources
+C:\Murach\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\GenerateResource.read.1.tlog
+C:\Murach\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\bin\Debug\DateHandling.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\bin\Debug\DateHandling.pdb
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\ResolveAssemblyReference.cache
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.Form1.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.Properties.Resources.resources
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\GenerateResource.read.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\GenerateResource.write.1.tlog
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.exe
+C:\Users\Anne.murach\Documents\C# 2010\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.exe
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.pdb
+C:\Users\Anne.murach\Documents\C# 2012\Exercise starts\Chapter 09\DateHandling\DateHandling\bin\Debug\DateHandling.exe.config
+C:\C# 2015\Exercise starts\Chapter 09\DateHandling\DateHandling\bin\Debug\DateHandling.exe.config
+C:\C# 2015\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.exe
+C:\C# 2015\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.pdb
+C:\C# 2015\Exercise starts\Chapter 09\DateHandling\DateHandling\bin\Debug\DateHandling.exe
+C:\C# 2015\Exercise starts\Chapter 09\DateHandling\DateHandling\bin\Debug\DateHandling.pdb
+C:\C# 2015\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.Form1.resources
+C:\C# 2015\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.Properties.Resources.resources
+C:\C# 2015\Exercise starts\Chapter 09\DateHandling\DateHandling\obj\Debug\DateHandling.csproj.GenerateResource.Cache
